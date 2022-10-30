@@ -30,3 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nivish29&show_icons=true&locale=en" alt="nivish29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nivish29&" alt="nivish29" /></p>
+
+## snake eating my contribution graph
+![snake gif](https://github.com/nivish29/nivish29/blob/output/github-contribution-grid-snake.gif)
+
