@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/just_nivish" target="blank"><img src="https://img.shields.io/twitter/follow/just_nivish?logo=twitter&style=for-the-badge" alt="just_nivish" /></a> </p>
 
-- 🌱 I’m currently learning **ktor and Android development**
+- 🌱 I’m currently learning **django**
 
 - 📫 How to reach me **nihal.vish29@gmail.com**
 
