@@ -1,36 +1,106 @@
-![](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
-<h1 align="center">Hi 👋, I'm Nihal Vishwakarma</h1>
-<h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<!-- ─────────────────────────  HEADER  ───────────────────────── -->
+<h1 align="center">Nihal Vishwakarma</h1>
+<h3 align="center">AI + Full-Stack Engineer · India 🇮🇳</h3>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nivish29&label=Profile%20views&color=0e75b6&style=flat" alt="nivish29" /> </p>
-
-<p align="left"> <a href="https://twitter.com/just_nivish" target="blank"><img src="https://img.shields.io/twitter/follow/just_nivish?logo=twitter&style=for-the-badge" alt="just_nivish" /></a> </p>
-
-- 🌱 I’m currently learning **Flutter, Django**
-
-- 📫 How to reach me **nihal.vish29@gmail.com**
-
-- ⚡ Fun fact **I'm a part time writer and a passionate musician**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/just_nivish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="just_nivish" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nihal-vishwakarma-b5b228201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nihal-vishwakarma-b5b228201" height="30" width="40" /></a>
-<a href="https://instagram.com/just.nivish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just.nivish" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=650&lines=Building+AI-powered+products+end-to-end;LLM+apps+%C2%B7+RAG+%C2%B7+agents+%C2%B7+prompt+engineering;Python+%2B+Django+on+the+back%2C+Next.js+on+the+front;Shipping+from+idea+%E2%86%92+API+%E2%86%92+screen+%E2%9C%A8" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nivish29&label=Profile%20views&color=2575fc&style=flat-square" alt="profile views" />
+  <a href="https://twitter.com/just_nivish"><img src="https://img.shields.io/twitter/follow/just_nivish?logo=twitter&style=flat-square&color=1DA1F2" alt="twitter" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nivish29&show_icons=true&locale=en&layout=compact" alt="nivish29" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nivish29&show_icons=true&locale=en" alt="nivish29" /></p>
+## ⚡ whoami
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nivish29&" alt="nivish29" /></p>
+```python
+class Nihal:
+    def __init__(self):
+        self.role      = "AI + Full-Stack Engineer"
+        self.location  = "India 🇮🇳"
+        self.focus     = ["LLM apps", "RAG pipelines", "AI agents"]
+        self.backend   = ["Python", "Django", "DRF", "PostgreSQL"]
+        self.frontend  = ["TypeScript", "React", "Next.js"]
+        self.mindset   = "idea → API → screen, ship, iterate"
 
-## snake eating my contribution graph
-![snake gif](https://github.com/nivish29/nivish29/blob/output/github-contribution-grid-snake.gif)
+    def currently(self):
+        return "wiring LLMs into real products people actually use"
+```
 
+- 🤖 I build **AI-first products** — turning models into reliable, shippable features
+- 🧠 Comfortable across the stack: LLM orchestration, backend APIs, and modern web UIs
+- 🎸 Off the clock: part-time writer & full-time musician
+- 📫 Reach me at **nihal.vish29@gmail.com**
+
+---
+
+## 🧰 Tech Stack
+
+**AI / LLM**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-2575FC?style=for-the-badge&logo=databricks&logoColor=white)
+![Prompt%20Engineering](https://img.shields.io/badge/Prompt%20Engineering-6a11cb?style=for-the-badge&logo=probot&logoColor=white)
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Tooling & Infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nivish29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2575fc&icon_color=6a11cb" alt="stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivish29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2575fc&langs_count=8" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nivish29&theme=tokyonight&hide_border=true&background=0d1117&ring=2575fc&fire=6a11cb&currStreakLabel=2575fc" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nivish29&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+</p>
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://twitter.com/just_nivish"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
+  <a href="https://linkedin.com/in/nihal-vishwakarma-b5b228201"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://instagram.com/just.nivish"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+  <a href="mailto:nihal.vish29@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+</p>
+
+---
+
+<p align="center"><i>⭐️ Idea → API → screen. Let's build something people actually use.</i></p>
